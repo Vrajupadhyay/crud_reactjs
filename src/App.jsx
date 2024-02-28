@@ -2,7 +2,7 @@ import "./App.css";
 
 import { Route, Routes } from "react-router-dom";
 
-import HomePage from "./pages/HomePage";
+import HomePage from "./Pages/HomePage";
 import NotFoundPage from "./pages/PageNotFound";
 import AddStudent from "./Pages/AddStudent";
 import ViewStudent from "./Pages/ViewStudent";
